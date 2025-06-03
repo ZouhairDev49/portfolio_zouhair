@@ -10,7 +10,7 @@ const ProjectSection = ({isdark}) => {
       title: "RH Management Dashboard",
       description: "Modern React dashboard with real-time analytics, inventory management, and beautiful data visualizations.",
       tech: ["React", "Laravel", "Tailwind", "Inertia.js","Vite"],
-      image: "../../public/image.png",
+      image: "/images/image.png",
       liveDemo: "https://dashboard-demo.vercel.app",
       github: "https://github.com/username/ecommerce-dashboard",
       status: "Live"
@@ -20,7 +20,7 @@ const ProjectSection = ({isdark}) => {
       title: "Ecommerce Marketplace & Dashboard",
       description: "Intelligent chatbot interface with natural language processing and beautiful conversation UI.",
       tech: ["React", "Laravel", "Tailwind", "Inertia.js", "Vite"],
-      image: "../../public/image2.png",
+      image: "/images/image2.png",
       liveDemo: "https://ai-chat-demo.herokuapp.com",
       github: "https://github.com/username/ai-chat",
       status: "Live"
