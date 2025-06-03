@@ -29,7 +29,7 @@ const Experience = ({isdark}) => {
         "Developed a full-stack reservation platform for managing room bookings in academic institutions during a regional digital innovation event. Collaborated in a cross-functional team to deliver a working MVP within 48 hours.",
       achievements: [
         "Built intuitive UI using React, ShadCN UI, and Inertia.js",
-        "Integrated Laravel backend with TypeScript for type safety",
+        "Integrated Laravel backend",
         "Presented solution during 'Innover et Entreprendre à l'ère du digital'",
       ],
       skills: ["React", "Laravel", "TypeScript", "ShadCN UI", "Inertia.js"],
