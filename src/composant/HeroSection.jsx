@@ -672,8 +672,8 @@ const HeroSection = () => {
                         <span className="text-blue-300">skills</span>
                         <span className="text-gray-500">:</span>{" "}
                         <span className="text-yellow-400">
-                          [ 'React', 'laravel', 'javascript', 'typescript',
-                          'PHP', 'Html', 'Css', 'Bootstrap', 'Python' ]
+                          [ 'React', 'laravel', 'javascript', 
+                          'PHP', 'Html', 'Css', 'tailwindcss', 'Python' ]
                         </span>
                         <span className="text-gray-500">,</span>
                       </div>
